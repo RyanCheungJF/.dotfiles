@@ -1,0 +1,21 @@
+[user]
+  email = johndoe@dev.com
+  name = John Doe
+[alias]
+  st = status
+  cm = commit -m
+  ck = checkout
+  a = add .
+  p = push
+  m = merge
+  cl = clone
+  pl = pull
+  sh = stash
+  tree = log --oneline --decorate --all --graph
+  psuo = push --set-upstream origin
+  rem = remote
+  rema = remote add
+  alias = config --get-regexp ^alias\\.
+  branch = b
+[init]
+	defaultBranch = main
