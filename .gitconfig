@@ -16,6 +16,6 @@
   rem = remote
   rema = remote add
   alias = config --get-regexp ^alias\\.
-  branch = b
+  b = branch
 [init]
-	defaultBranch = main
+  defaultBranch = main
