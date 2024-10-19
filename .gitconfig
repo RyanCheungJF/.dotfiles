@@ -17,5 +17,6 @@
   rema = remote add
   alias = config --get-regexp ^alias\\.
   b = branch
+  cp = cherry-pick
 [init]
   defaultBranch = main
